@@ -1,4 +1,4 @@
-FROM ansible/ansible
+FROM ansible/ansible:ubuntu1604
 
 RUN pip install ansible
 
